@@ -10,50 +10,94 @@
 }
 
 .AutoInseratBild1{
-    height: 480px;
-    width: 545px;
+    height: 278px; /* 278*/
+    width: 891px; /*891 */
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 380;
+    top: 150%;
     transform: translate(-10%, -10%);
     background-image: url(img/Auto1.PNG);
     background-size: 100% 100%;
 }
 
 .AutoInseratBild2{
-    height: 480px;
-    width: 545px;
+    height: 278px;
+    width: 891px;
     position: absolute;
-    left: 160%;
-    top: 20%;
+    left: 10%;
+    top: 270%;
     transform: translate(-10%, -10%);
     background-image: url(img/Auto2.PNG);
     background-size: 100% 100%;
 }
 
 .AutoInseratBild3{
-    height: 480px;
-    width: 545px;
+    height: 278px;
+    width: 891px;
     position: absolute;
-    left: 160%;
-    top: 20%;
+    left: 10%;
+    top: 200%;
     transform: translate(-10%, -10%);
     background-image: url(img/Auto3.PNG);
     background-size: 100% 100%;
 }
-.AutoInseratBild3{
-    height: 480px;
-    width: 545px;
+.AutoInseratBild4{
+    height: 278px;
+    width: 891px;
     position: absolute;
-    left: 160%;
-    top: 20%;
+    left: 10%;
+    top: 260%;
     transform: translate(-10%, -10%);
     background-image: url(img/Auto4.PNG);
     background-size: 100% 100%;
 }
 
+.AutoInseratBild5{
+    height: 278px;
+    width: 891px;
+    position: absolute;
+    left: 10%;
+    top: 150%;
+    transform: translate(-10%, -10%);
+    background-image: url(img/Auto5.PNG);
+    background-size: 100% 100%;
 
 
+}
+.AutoInseratBild6{
+        height: 278px;
+        width: 891px;
+        position: absolute;
+        left: 10%;
+        top: 30%;
+        transform: translate(-10%, -10%);
+        background-image: url(img/Auto6.PNG);
+        background-size: 100% 100%;
+}
+
+.AutoInseratBild7{
+    height: 278px;
+    width: 891px;
+    position: absolute;
+    left: 10%;
+    top: 310%;
+    transform: translate(-10%, -10%);
+    background-image: url(img/Auto7.PNg);
+    background-size: 100% 100%;
+}
+
+
+/*.AutoInseratBild9{
+    height: 278px;
+    width: 891px;
+    position: absolute;
+    left: -10%;
+    top: -0%;
+    transform: translate(-10%, -10%);
+    background-image: url(img/Auto9.PNg);
+    background-size: 100% 100%;
+}
+*/
 body {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
